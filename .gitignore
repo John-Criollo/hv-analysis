@@ -1,5 +1,4 @@
-./data
-./__pycache__
-./data
-./testing.ipynb
+data/
+__pycache__/
+testing.ipynb
 

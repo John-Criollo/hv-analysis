@@ -4,4 +4,7 @@ stations = ["PE43", "PE44", "PE45", "PE46", "PE47", "PE48", "PE49", "PE50", "PF0
 location = "01"
 channel = "HH*"
 analysis_day = "2008-07-21T00:00:00"
+
 output_dir = "data"
+
+window_lenght = 60
